@@ -1,7 +1,3 @@
-API
-===
+#Please visit following website for offcial docs:
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
+https://splunk.github.io/splunk-connect-for-syslog/main/
